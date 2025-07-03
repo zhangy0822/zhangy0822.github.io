@@ -14,6 +14,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 News
 
+Publications
 
 Academic Services
 Journal Reviewer
