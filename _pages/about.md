@@ -22,11 +22,11 @@ News
 Reviewer Service
 ======
 
-*IEEE Transactions on Circuits and Systems for Video Technology*  
-*Neural Networks*
-*IEEE Transactions on EmergingTopics in Computational Intelligence*
-*IEEE Signal Processing Letters* 
-*AAAI, IJCAI, ACM MM*
+-*IEEE Transactions on Circuits and Systems for Video Technology*  
+-*Neural Networks*
+-*IEEE Transactions on EmergingTopics in Computational Intelligence*
+-*IEEE Signal Processing Letters* 
+-*AAAI, IJCAI, ACM MM*
 
 
 
