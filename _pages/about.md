@@ -16,7 +16,7 @@ News
 ======
 ## Publications
 
-**03/2025**: Our paper “Raformer: Redundancy-Aware Transformer for Video Wire Inpainting” has been accepted by IEEE Transactions on Image Processing. See the [paper link]([[https://arxiv.org/abs/xxxx.xxxxx]]) for more details.
+**03/2025**: Our paper *Raformer: Redundancy-Aware Transformer for Video Wire Inpainting* has been accepted by **IEEE Transactions on Image Processing**. See the [paper link]([[https://arxiv.org/abs/xxxx.xxxxx]]) for more details.
 
 Academic Services
 ======
