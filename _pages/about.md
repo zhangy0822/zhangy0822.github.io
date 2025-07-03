@@ -25,7 +25,14 @@ Reviewer Service
 - *IEEE Transactions on Circuits and Systems for Video Technology*  
 - *Neural Networks*
 - *IEEE Transactions on EmergingTopics in Computational Intelligence*
-- *IEEE Signal Processing Letters* 
+- *IEEE Signal Processing Letters*
+- *Journal of Big Data*
+- *Scientific Reports*
+- *The Journal of Supercomputing*
+- *Multimedia Systems*
+- *The Visual Computer*
+- *Signal, Image and Video Processing*
+- *International Journal of Multimedia Information Retrieval*
 - Conference：*AAAI, IJCAI, ACM MM*
 
 
