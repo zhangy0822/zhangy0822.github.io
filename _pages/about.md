@@ -21,12 +21,12 @@ News
 
 Reviewer Service
 ======
-## 📝 Journal Reviewer
 
-*IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*  
+*IEEE Transactions on Circuits and Systems for Video Technology*  
 *Neural Networks* 
-
-# 🧾 Conference Reviewer
+*IEEE Transactions on EmergingTopics in Computational Intelligence*
+*IEEE Signal Processing Letters* 
+*AAAI, IJCAI, ACM MM*
 
 
 
