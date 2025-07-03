@@ -20,10 +20,14 @@ News
 **01/2025**: Our paper *Hierarchical Matching and Reasoning for Multi-Query Image Retrieval* has been accepted by **IEEE Transactions on Multimedia**.
 
 Reviewer Service
+======
+## 📝 Journal Reviewer
 
 *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*  
-*Neural Networks*  
- 
+*Neural Networks* 
+
+# 🧾 Conference Reviewer
+
 
 
 <!-- 
