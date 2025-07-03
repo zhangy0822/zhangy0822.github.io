@@ -26,22 +26,8 @@ Reviewer Service
 - *Neural Networks*
 - *IEEE Transactions on EmergingTopics in Computational Intelligence*
 - *IEEE Signal Processing Letters* 
-- *AAAI, IJCAI, ACM MM*
+- Conference：*AAAI, IJCAI, ACM MM*
 
-## Reviewer Service
-
-### 📝 Journal Reviewer
-
-- *IEEE Transactions on Image Processing (TIP)* &nbsp;&nbsp;&nbsp;**2024 – Present**
-- *Pattern Recognition* &nbsp;&nbsp;&nbsp;**2023 – Present**
-- *Neurocomputing* &nbsp;&nbsp;&nbsp;**2023 – Present**
-- *IEEE Access* &nbsp;&nbsp;&nbsp;**2022 – Present**
-
-### 🧾 Conference Reviewer
-
-- *CVPR (IEEE Conference on Computer Vision and Pattern Recognition)* &nbsp;&nbsp;&nbsp;**2024**
-- *ICCV (International Conference on Computer Vision)* &nbsp;&nbsp;&nbsp;**2023**
-- *AAAI Conference on Artificial Intelligence* &nbsp;&nbsp;&nbsp;**2023**
 
 
 <!-- 
