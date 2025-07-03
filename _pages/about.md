@@ -19,6 +19,10 @@ News
 
 **01/2025**: Our paper *Hierarchical Matching and Reasoning for Multi-Query Image Retrieval* has been accepted by **IEEE Transactions on Multimedia**.
 
+Honors
+======
+
+
 Reviewer Service
 ======
 
