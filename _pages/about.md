@@ -14,8 +14,8 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 News
 ======
-**07/2025**: Our paper *iEBAKER: Improved Remote Sensing Image-Text Retrieval Framework via Eliminate Before Align and Keyword Explicit Reasoning* has been accepted by **
-Expert Systems with Applications**. See the [paper link]([(https://arxiv.org/abs/2504.05644)]) for more details.
+**07/2025**: Our paper *iEBAKER: Improved Remote Sensing Image-Text Retrieval Framework via Eliminate Before Align and Keyword Explicit Reasoning* has been accepted by 
+**Expert Systems with Applications**. See the [paper link]([(https://arxiv.org/abs/2504.05644)]) for more details.
 
 **03/2025**: Our paper *Raformer: Redundancy-Aware Transformer for Video Wire Inpainting* has been accepted by **IEEE Transactions on Image Processing**. See the [paper link]([https://ieeexplore.ieee.org/abstract/document/10930654/]) for more details.
 
