@@ -21,6 +21,7 @@ News
 
 Awards and Honors
 ======
+- Outstanding Doctoral Dissertation of Tianjin University：2025
 - Outstanding graduate of Tianjin University：2025
 - Tianjin University's Excellent Doctoral Dissertation Cultivation Fund：2024
 - Second Prize of the Doctoral Student Academic Forum of the SEIE, Tianjin University: 2023
